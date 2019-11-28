@@ -1,0 +1,21 @@
+.product-modal{
+    .modal-box.product-summary {
+        padding: 4rem 2rem 2rem;
+        .product-title {
+            font-size: 36px;
+            margin: 10px 0 33px;
+            font-weight: normal;
+            line-height: 1.2;
+        }
+        .product-navigation {
+            float: right;
+            line-height: .5;
+        }
+        .product-action{
+            button.add-to-cart {
+                padding: inherit;
+                margin-right: 1.5rem;
+            }
+        }
+    }
+}
